@@ -1,3 +1,5 @@
+<p align="center"><img src="https://camo.githubusercontent.com/8ccdf0f9b379bb99ac592c3ffe5f17e11ac207ba5d60d6acb7b0c5f7aa63f7d3/68747470733a2f2f6172617361746173617967696e2e6769746875622e696f2f6f70656e6c6f676f732f6c6f676f732f696d2d706f737369626c652e6a7067" width="150" height="150" /></p>
+
 # Possible Design System
 
 ## Useful links
@@ -8,7 +10,7 @@
 
 ## Storybook
 ```bash
-// Running storybook locally
+# Running locally
 $ npm run storybook
 ```
 
